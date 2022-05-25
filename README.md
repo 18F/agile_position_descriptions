@@ -4,7 +4,7 @@ These short position descriptions can be used to articulate the roles on an agil
 # Roles
 - [Technical Lead](https://github.com/18F/agile_position_descriptions/blob/main/technical_lead.md)
 - [User Experience Researcher / Designer](https://github.com/18F/agile_position_descriptions/blob/main/user_experience_researcher_designer.md)
-- Front-end Engineer
+- [Front-end Engineer](https://github.com/18F/agile_position_descriptions/blob/main/front_end_engineer.md)
 - Back-end Engineer
 - DevOps Engineer
 - Content Designer
