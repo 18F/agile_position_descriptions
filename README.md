@@ -10,5 +10,5 @@ These short position descriptions can be used to articulate the roles on an agil
 - [Content Designer](https://github.com/18F/agile_position_descriptions/blob/main/content_designer.md)
 - [Visual Designer](https://github.com/18F/agile_position_descriptions/blob/main/visual_designer.md)
 - [Data Scientist](https://github.com/18F/agile_position_descriptions/blob/main/data_scientist.md)
-- Agile Coach
+- [Agile Coach](https://github.com/18F/agile_position_descriptions/blob/main/agile_coach.md)
 - Product Manager
