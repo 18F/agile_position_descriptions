@@ -1,4 +1,4 @@
-#DevOps Engineer
+# DevOps Engineer
 
 Experience serving as the engineer of complex technology implementations in a product-centric environment. Comfortable with bridging the gap between legacy development or operations teams and working toward a shared culture and vision. Ensures system uptime and performance. Works to equip developers with the best tools.
 
