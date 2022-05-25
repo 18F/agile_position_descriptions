@@ -8,7 +8,7 @@ These short position descriptions can be used to articulate the roles on an agil
 - [Back-end Engineer](https://github.com/18F/agile_position_descriptions/blob/main/back_end_engineer.md)
 - [DevOps Engineer](https://github.com/18F/agile_position_descriptions/blob/main/devops_engineer.md)
 - [Content Designer](https://github.com/18F/agile_position_descriptions/blob/main/content_designer.md)
-- Visual Designer
+- [Visual Designer](https://github.com/18F/agile_position_descriptions/blob/main/visual_designer.md)
 - Data Scientist
 - Agile Coach
 - Product Manager
